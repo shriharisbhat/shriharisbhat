@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ## Stats
 
 ![shriharisbhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriharisbhat&count_private=true&show_icons=true&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shriharisbhat&theme=github-dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shriharisbhat&theme=github-dark)
