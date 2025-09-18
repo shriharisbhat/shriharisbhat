@@ -28,4 +28,4 @@ I’m always open to contributing to exciting projects or brainstorming innovati
 
 ## Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shriharisbhat&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shriharisbhat&theme=gruvbox)
